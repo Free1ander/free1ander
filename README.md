@@ -31,6 +31,8 @@
   </tr>
 </table>
 
+### Guides
+
 [0G Content](https://github.com/Free1ander/0Gcontent/tree/main)
 
 ### Links
