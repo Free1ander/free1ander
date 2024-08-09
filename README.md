@@ -2,6 +2,8 @@
 
 ## A veteran of the Valedictorian forces
 
+<p align=center ><img src="https://github.com/user-attachments/assets/0e60b896-b676-4150-adf0-b443aa488e54"></p>
+
 ### Portfolio
 
 <table>
